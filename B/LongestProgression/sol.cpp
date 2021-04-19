@@ -1,7 +1,6 @@
 /*
 Author: Nachiket Kanore
 Created: Monday 19 April 2021 12:04:47 PM IST
-(ツ) Logic will get you from A to B. Imagination will take you everywhere.
 */
 #include <iostream>
 #include <cstdio>
